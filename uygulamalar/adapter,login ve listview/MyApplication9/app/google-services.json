@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225074658875",
+    "project_id": "my-application-fba41",
+    "storage_bucket": "my-application-fba41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225074658875:android:401935e8c293f15a4de61e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPxwp6g5BFaHNTOADxSmd3WB-pfIpycE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
